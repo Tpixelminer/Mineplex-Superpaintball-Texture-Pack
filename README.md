@@ -1,6 +1,6 @@
-# Mineplex-Superpaintball-Texture-Pack By: Legominore
+# Mineplex-Superpaintball-Texture-Pack
 A super cool texture pack that makes the Mineplex mini game, Super Paintball, look awesome!
-
+Created By: @Legominore
 How To Use:
 1. Download the file from http://tpixelminer.github.io/Mineplex-Superpaintball-Texture-Pack/
 2. Open the .zip file you downloaded and find the .zip file inisde the folder
