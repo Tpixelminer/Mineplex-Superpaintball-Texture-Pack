@@ -14,7 +14,9 @@ How To Use:
 
 5. Click on open folder and place the .zip file into the folder
 
-6. Select the resource pack and start playing
+6. Select the resource pack and start playing!
+
+
 These are some pictures of it:
 
 ![2016-09-01_13 26 09](https://cloud.githubusercontent.com/assets/17729491/18177680/56d91f78-7049-11e6-80a3-d80c4779d89d.png)
