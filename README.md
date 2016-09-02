@@ -1,12 +1,19 @@
 # Mineplex-Superpaintball-Texture-Pack
 A super cool texture pack that makes the Mineplex mini game, Super Paintball, look awesome!
+
 Created By: @Legominore
+
 How To Use:
 1. Download the file from http://tpixelminer.github.io/Mineplex-Superpaintball-Texture-Pack/
+
 2. Open the .zip file you downloaded and find the .zip file inisde the folder
+
 3. Open Minecraft and start playing Super Paintball
+
 4. Go into options and select resource packs
+
 5. Click on open folder and place the .zip file into the folder
+
 6. Select the resource pack and start playing
 These are some pictures of it:
 
