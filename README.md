@@ -37,4 +37,4 @@ How To Use:
 
 ![2016-09-01_12 49 25](https://cloud.githubusercontent.com/assets/17729491/18177686/56e7fa16-7049-11e6-9ee2-ea121dd4a05e.png)
 
-This is an unofficial Minecraft product and is not associated with Mojang in any way
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.
