@@ -1,7 +1,7 @@
 # Mineplex-Superpaintball-Texture-Pack
 A super cool texture pack that makes the Mineplex mini game, Super Paintball, look awesome!
 
-Created By: @Legominore (IG=LEGOlixZK) ❤️
+Created By: @Legominore (IG=LEGOlixZK)
 
 How To Use:
 
